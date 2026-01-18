@@ -7,19 +7,12 @@ I break things so they can be built back better. My focus is on ensuring a seaml
 ### 🛠 My Testing Toolkit
 * **Testing Types:** Functional, Regression, Smoke, Exploratory, and UI/UX Testing.
 * **Documentation:** Writing detailed Bug Reports, Test Cases, and Test Plans.
-* **Tools:** Chrome DevTools, Postman (API Testing), Jira, and GitHub.
-* **Platforms:** Windows, macOS, Android, and iOS.
-
----
-
-### 🧪 Current Projects
-* **[emimoir.com](https://github.com/your-username/emimoir.com):** 
+* **Tools:** Jira, Confluence and GitHub.
 
 ---
 
 ### 📫 Connect with me
 * [Email](emi@emimoir.com)
-* [My Website](emimoir.com)
 
 <!--
 **emimoir/emimoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
