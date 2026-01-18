@@ -1,11 +1,26 @@
-## Hi, I'm Emi 👋!
+# Hi, I'm Emi 👋
+### Manual QA Tester | Bug Hunter | Quality Advocate
 
-I'm a self-taught, female QA tester from South Africa. I learned testing by actually breaking real software and creating my own testing projects — not watching tutorials.
-Junior tester. Fast learner. I'll outwork your expectations.
+I specialize in breaking things so they can be built back better. My focus is on ensuring a seamless user experience through rigorous manual testing and clear documentation.
 
-How to reach me: emi@emimoir.com
+---
 
-Take a look at my QA testing project for Kaneo: 
+### 🛠 My Testing Toolkit
+* **Testing Types:** Functional, Regression, Smoke, Exploratory, and UI/UX Testing.
+* **Documentation:** Writing detailed Bug Reports, Test Cases, and Test Plans.
+* **Tools:** Chrome DevTools, Postman (API Testing), Jira, and GitHub.
+* **Platforms:** Windows, macOS, Android, and iOS.
+
+---
+
+### 🧪 Current Projects
+* **[emimoir.com](https://github.com/your-username/emimoir.com):** 
+
+---
+
+### 📫 Connect with me
+* [Email](emi@emimoir.com)
+* [My Website](emimoir.com)
 
 <!--
 **emimoir/emimoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
