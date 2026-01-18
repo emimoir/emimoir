@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Emi 👋!
+
+I'm a self-taught, female QA tester from South Africa. I learned testing by actually breaking real software and creating my own testing projects — not watching tutorials.
+Junior tester. Fast learner. I'll outwork your expectations.
+
+How to reach me: emi@emimoir.com
+
+Take a look at my QA testing project for Kaneo: 
 
 <!--
 **emimoir/emimoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
