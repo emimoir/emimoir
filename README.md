@@ -1,7 +1,6 @@
 # Hi, I'm Emi 👋
-### Manual QA Tester | Bug Hunter | Quality Advocate
-
-I specialize in breaking things so they can be built back better. My focus is on ensuring a seamless user experience through rigorous manual testing and clear documentation.
+### Manual QA Tester | Bug Hunter 
+I break things so they can be built back better. My focus is on ensuring a seamless user experience through rigorous manual testing and clear documentation.
 
 ---
 
