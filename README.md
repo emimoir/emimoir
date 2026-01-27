@@ -13,7 +13,7 @@ I break things so they can be built back better. My focus is on ensuring a seaml
 
 ### 📫 Connect with me
 * [Email](emi@emimoir.com)
-
+* [My site](emimoir.com)
 <!--
 **emimoir/emimoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
