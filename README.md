@@ -40,6 +40,18 @@ based in South Africa 🇿🇦
   <img src="https://img.shields.io/badge/Fish_Shell-34C534?style=for-the-badge&logo=fishshell&logoColor=white" />
 </p>
 
+### 🌱 currently learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,postman&perline=3" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+
 ---
 
 ### 📂 my work
