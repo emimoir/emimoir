@@ -56,16 +56,20 @@ based in South Africa 🇿🇦
 
 ### 📂 my work
 
-<p align="center">
-  <a href="https://github.com/emimoir/kaneo-manual-qa-portfolio">
-    <img src="https://img.shields.io/badge/🔍_Kaneo_QA_Portfolio-Full_manual_QA_project—test_plans,_test_cases,_bug_reports_w/_evidence-F78DA7?style=for-the-badge&labelColor=0D1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/emimoir/emimoir.com">
-    <img src="https://img.shields.io/badge/🌐_My_Personal_Site-emimoir.com-A855F7?style=for-the-badge&labelColor=0D1117" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/emimoir/kaneo-manual-qa-portfolio">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emimoir&repo=kaneo-manual-qa-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78DA7&icon_color=F78DA7&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/emimoir/emimoir.com">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emimoir&repo=emimoir.com&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78DA7&icon_color=F78DA7&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
