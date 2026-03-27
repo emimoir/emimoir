@@ -44,7 +44,7 @@ based in South Africa 🇿🇦
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,postman&perline=3" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,postman,js&perline=3" />
   </a>
 </p>
 
