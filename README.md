@@ -26,15 +26,18 @@ based in South Africa 🇿🇦
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,github,linux,html,css,obsidian&perline=6" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,html,css,obsidian&perline=7" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-F78DA7?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Loom-625DF5?style=for-the-badge&logo=loom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bunny_CDN-F6A726?style=for-the-badge&logo=bunnynet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaneo-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fish_Shell-34C534?style=for-the-badge&logo=fishshell&logoColor=white" />
 </p>
 
 ---
