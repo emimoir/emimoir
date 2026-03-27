@@ -59,11 +59,11 @@ based in South Africa 🇿🇦
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/emimoir/kaneo-manual-qa-portfolio">
-        <img src="https://img.shields.io/badge/📂_kaneo--manual--qa--portfolio-F78DA7?style=for-the-badge&logoColor=white" />
+      <a href="https://github.com/emimoir/qa-tester-portfolio">
+        <img src="https://img.shields.io/badge/📂_qa--tester--portfolio-F78DA7?style=for-the-badge&logoColor=white" />
       </a>
       <br/><br/>
-      <sub>🔍 full QA project — test plans, test cases, bug reports w/ evidence</sub>
+      <sub>🔍 test plans, test cases, bug reports, evidence — all in one place</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/emimoir/emimoir.com">
